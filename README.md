@@ -1,11 +1,11 @@
 # geotopojsonquiz
 >A repository for Geog 472, Quiz 3
 
-<h2>Quiz 3</h2>
+<h3>Quiz 3</h3>
 
-The data for the final Harvey project is not available to me as of April 23rd, 2018. Instead, I have chosen to use the Oregon Counties 2015 data. I've taken the county polygon shapefile from the data set and converted it into a .geojson, .simplified geojson, and finally a .topojson file. Below is a table showing the size changes from one file to the next, and after simplification.
+Data used is Oregon Counties 2015 taken from Oregon Spatial Data Library. I've taken the county polygon shapefile from the data set and converted it into a .geojson, .simplified geojson, and finally a .topojson file. Below is a table showing the size changes from one file to the next.
 
-<H3><center>Quiz 3 Comparison Table</h3></center>
+<H4>Quiz 3 Comparison Table</h4>
 
   -------------------     ----------------------------
 
@@ -17,4 +17,6 @@ The data for the final Harvey project is not available to me as of April 23rd, 2
 
   -------------------     ----------------------------
 
+<h3>Data Source</h3>
 
+http://spatialdata.oregonexplorer.info/geoportal/details;id=361c06fee9de4e24a72e280fb386a771
