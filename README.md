@@ -7,16 +7,13 @@ Data used is Oregon Counties 2015 taken from Oregon Spatial Data Library. I've t
 
 <H4>Quiz 3 Comparison Table</h4>
 
-  -------------------     ----------------------------
+  | Name                     | Size (kb)                  |
+  | ----------------------   | -------------------------  |
+  | q3geojson.geojson        | 9385.1                     |
+  | q3geo_simplified.geojson | 26.2                       |
+  | q3topojson.topojson      | 5.92                       |
 
-  | Name                    | Size (kb)                                    |
-  | ----------------------  | ------------------------------------------  |
-  | q3geojson.geojson       | 9385.1                     |
-  | q3geo_simplified.geojson | 26.2 |
-  | q3topojson.topojson| 5.92 |
 
-  -------------------     ----------------------------
-
-<h3>Data Source</h3>
+<h4>Data Source</h4>
 
 http://spatialdata.oregonexplorer.info/geoportal/details;id=361c06fee9de4e24a72e280fb386a771
